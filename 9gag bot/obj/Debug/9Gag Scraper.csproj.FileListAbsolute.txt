@@ -1,0 +1,3 @@
+C:\Users\Anki\documents\visual studio 2012\Projects\9gag bot\9gag bot\bin\Debug\9gag bot.exe.config
+C:\Users\Anki\documents\visual studio 2012\Projects\9gag bot\9gag bot\obj\Debug\9gag bot.exe
+C:\Users\Anki\documents\visual studio 2012\Projects\9gag bot\9gag bot\obj\Debug\9gag bot.pdb
