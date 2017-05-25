@@ -8,6 +8,7 @@
 * Save images to folder using folder browser
 * Needs only url of the first image
 * Amount of images to be downloaded can be specified.
+* 9gag posts' titles become the images' names.
 
 <b>Screenshots</b>
 ![](https://github.com/soulxhacker/9gag-Scraper/blob/master/bandicam%202017-05-25%2014-32-59-432.jpg?raw=true)
