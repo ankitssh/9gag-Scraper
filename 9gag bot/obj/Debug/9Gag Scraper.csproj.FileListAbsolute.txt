@@ -1,3 +1,9 @@
 C:\Users\Anki\documents\visual studio 2012\Projects\9gag bot\9gag bot\bin\Debug\9gag bot.exe.config
 C:\Users\Anki\documents\visual studio 2012\Projects\9gag bot\9gag bot\obj\Debug\9gag bot.exe
 C:\Users\Anki\documents\visual studio 2012\Projects\9gag bot\9gag bot\obj\Debug\9gag bot.pdb
+C:\Users\Anki\Documents\Visual Studio 2012\Projects\9gag bot\9gag bot\bin\Debug\9gag bot.exe
+C:\Users\Anki\Documents\Visual Studio 2012\Projects\9gag bot\9gag bot\bin\Debug\9gag bot.pdb
+C:\Users\Anki\Documents\Visual Studio 2012\Projects\9gag bot\9gag bot\obj\Debug\9Gag Scraper.csprojResolveAssemblyReference.cache
+C:\Users\Anki\Documents\Visual Studio 2012\Projects\9gag bot\9gag bot\obj\Debug\_9gag_bot.Form1.resources
+C:\Users\Anki\Documents\Visual Studio 2012\Projects\9gag bot\9gag bot\obj\Debug\_9gag_bot.Properties.Resources.resources
+C:\Users\Anki\Documents\Visual Studio 2012\Projects\9gag bot\9gag bot\obj\Debug\9Gag Scraper.csproj.GenerateResource.Cache
